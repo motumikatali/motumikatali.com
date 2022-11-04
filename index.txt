@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MOTUMI KATALI</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+	<div id="outerbox">
+		<div id="sliderbox">
+			<img src="C:\Users\Acer\Desktop\myimages\23.jpg"height="300" width="600">
+		</div>
+		</div>
+</body>
+  </html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MOTUMI KATALI</title>
+ <div class="nav-links">
+	<a href="HOMEE.html">HOME</a>
+	<a href="about.html">ABOUT ME</a>
+	<a href="edu.html">EDUCATION</a>
+	<a href="hobbies.html">HOBBIES</a>
+	 </div>
+	
+</head>
+<body> <link rel="stylesheet" type="text/css" href="style.css">
+			<p> HOBBIES<br>
+         In my spare times, I like to play chess and one mght say i have reached an intermidiate level. I also play soccer though i am not assigned to any "legal teams" right about now.
+
+  <center> <img src="C:\Users\admin\Desktop\myimages/27.jpg" width="500px" height="380px"alt=center"><img src="C:\Users\admin\Desktop\myimages/28.jpg" width="500px" height="380px"alt=center">
+         <center> 
+         		</center></p>
+        <a href="https://www.instagram.com/kayvyper"><img src="C:\Users\admin\Desktop\myimages/instagram.png" width="50" height=50"></a>
+             <a href="https://wa.me/+26658598403"><img src="C:\Users\admin\Desktop\myimages/whatsapp.png" width="50" height="50"></a>
+              <a href="https://twitter.com/@NdaeVyper"><img src="C:\Users\admin\Desktop\myimages/twitter.png" width="50" height="50"></a>
+              <a href="https://www.facebook.com/motumi.katali"><img src="C:\Users\admin\Desktop\myimages/facebook.png" width="50" height="50"></a>
+</body>
+
+</html>

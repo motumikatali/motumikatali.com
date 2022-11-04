@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MOTUMI KATALI</title>
+   
+					<div class="nav-links">
+					
+					<a href="HOMEE.html">HOME</a>
+						<a href="about.html">ABOUT ME</a>
+						<a href="edu.html">EDUCATION</a>
+						<a href="hobbies.html">HOBBIES</a>
+					 </div>
+	
+</head>
+<body>
+  <link rel="stylesheet" type="text/css" href="style.css">
+	<section class="header">
+			<br><br><br><br>
+			<p>"Everyone has an educational history and mine is quite simple. I only attended one school my entire life, that being Soofia International School. I started school in 2006 up until 2019 an now I am doing my honours in Software Engineering with multimedia in the university of Creative Technology in Limkonkwing."</p>
+	     
+</section>
+</body>
+<footer>
+	        <a href="https://www.instagram.com/kayvyper"><img src="C:\Users\Acer\Desktop\myimages/instagram.png" width="50" height=50"></a>
+             <a href="https://wa.me/+26658598403"><img src="C:\Users\Acer\Desktop\myimages/whatsapp.png"width="50" height=50"></a>
+              <a href="https://twitter.com/@NdaeVyper"><img src="C:\Users\Acer\Desktop\myimages/twitter.png"width="50" height=50"></a>
+              <a href="https://www.facebook.com/motumi.katali"><img src="C:\Users\Acer\Desktop\myimages/facebook.png" width="50" height=50"></a></footer>
+
+</html>

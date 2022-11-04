@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<head>
+   <title>ABOUT ME</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+                  <div class="nav-links">
+            <a href="HOMEE.html">HOME</a>
+            <a href="about.html">ABOUT</a>
+            <a href="edu.html">EDUCATION</a>
+            <a href="hobbies.html">HOBBIES</a>
+            </div>
+      <h1>ABOUT ME</h1>
+  <p>I am a proud Mosotho man, aged 22. I was born in 2000 June 16, on a drizzly friday, in Mapoteng. I grew up in a cosy village named Community in Botha Bothe.
+   I was given a privellage to attend school at Soofia International School up until grade 12. Now, I am a university student at Limkonkwing.</p>
+      
+      <center> <img src="C:\Users\admin\Desktop\myimages/23.jpg" width="500px" height="380px"alt=center">
+            <img src="C:\Users\admin\Desktop\myimages/24.jpg" width="500px" height="380px"alt=center">
+      <img src="C:\Users\admin\Desktop\myimages/25.jpg" width="500px" height="380px"alt=center">
+   </center>
+</body>
+
+</html>
